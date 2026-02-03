@@ -73,3 +73,6 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/Maya/cache/Boss/Bifrost Ocean.ma/BossSpectralWave1
+/Maya/cache/Boss/Bifrost Ocean.ma/BossSpectralWave2
+/Maya/images/Bifrost Ocean
