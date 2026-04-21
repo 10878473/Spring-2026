@@ -79,3 +79,4 @@ crashlytics-build.properties
 /Maya/cache/Boss/Bifrost Ocean.ma/BossGeoProperties1
 /Maya/data/Bifrost Ocean3
 /Save State Demo/Packages/com.unity.asset-store-tools
+*.exr
