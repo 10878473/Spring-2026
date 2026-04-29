@@ -80,3 +80,4 @@ crashlytics-build.properties
 /Maya/data/Bifrost Ocean3
 /Save State Demo/Packages/com.unity.asset-store-tools
 *.exr
+*.tif
